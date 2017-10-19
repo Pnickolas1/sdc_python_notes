@@ -1,2 +1,3 @@
-# sdc_python_notes
-Python and self driving car notes &amp; scripts 
+# Udacity Self Driving Car program
+## notes & python files
+
